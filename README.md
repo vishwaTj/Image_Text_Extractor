@@ -8,6 +8,7 @@ https://user-images.githubusercontent.com/109414918/228817690-acfb8c37-6871-4b6b
 Created an Application to extract text from an Image using NodeJS and Tesseract OCR library
 
 The file structure in the project is divided into 5 sections including a main index.js file
+
    i) Assests --> contains the styling and required javascript files for webpages that are being run.
    
    ii) Controllers --> continas the required functionalities that get executed upon user interaction or if any dependencies are triggered.
